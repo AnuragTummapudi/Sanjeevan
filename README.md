@@ -2,7 +2,7 @@
 
 A comprehensive AI-powered health diagnostics platform built with modern web technologies. Sanjeevan provides advanced medical intelligence through accessible and precise healthcare solutionss. 
 
-## Features
+## Featuress
 
 - 🎨 **Modern Design**: Clean, minimalist design with centered layout and smooth gradients
 - 🧠 **AI-Powered Analysis**: Advanced medical intelligence for health diagnosticsss
